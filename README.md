@@ -1,5 +1,5 @@
 # COLOR
-A simple program to make a game
+A simple program to make a game.CSS processor-SCSS .JS processor-Babel
 
 ![image](https://github.com/Coder-5657/COLOR/assets/157788773/ba780d3a-0560-4e23-a9a3-97939d0690a6)
 
